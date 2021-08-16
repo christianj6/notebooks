@@ -4,10 +4,10 @@ This repository contains jupyter notebooks and a list of resources in the readme
 ##### Resources
 - Data Sources
   - [Swiss German Sentiment Corpus](https://github.com/spinningbytes/SB-CH) (Swiss German sentences with sentiment annotations)
-  - [Tab-delimited Bilingual Sentence Pairs] (http://www.manythings.org/anki/)(Tab-delimited bilingual sentence pairs for eg flash card apps)
+  - [Tab-delimited Bilingual Sentence Pairs](http://www.manythings.org/anki/) (Tab-delimited bilingual sentence pairs for eg flash card apps)
   - [News Headlines](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SYBGZL) (A million news headlines)
   - [Lexical Databases ](http://crr.ugent.be/emlar2015/list%20of%20%20lexical%20databases.html)(List of lexical databases)
-  - [Pretrained word embeddings] (https://ybbaigo.gitbooks.io/26/content/pretrained-word-embeddings.html)(Pretrained word embeddings)
+  - [Pretrained word embeddings](https://ybbaigo.gitbooks.io/26/content/pretrained-word-embeddings.html) (Pretrained word embeddings)
 - Natural Language Processing
   - [LASER](https://github.com/facebookresearch/LASER) (Language Agnostic Sentence Representations)
   - [Generating Reviews Discovering Sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) (Unsupervised Language Modeling leads to sentiment neuron)
