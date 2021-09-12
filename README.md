@@ -20,6 +20,7 @@ This repository contains jupyter notebooks and a list of resources in the readme
   - [Resume Entity Recognition](https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy) (Entity recognition in resumes using SpaCy)
   - [sdalg](https://github.com/nik0spapp/sdalg) (Web page segmentation)
   - [Memory Based Shallow Parser](https://github.com/clips/MBSP) (Sentence constituent parser)
+  - [Deep Translator](https://deep-translator.readthedocs.io/en/latest/index.html) (Python translation API)
 - Machine Learning
   - [KaHrPar](https://github.com/kahypar/kahypar) (Hypergraph Partitioning Framework)
   - [DIMSUM](https://blog.twitter.com/engineering/en_us/a/2014/all-pairs-similarity-via-dimsum) (Fast pairwise distance approximation)
