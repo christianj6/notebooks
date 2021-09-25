@@ -33,7 +33,10 @@ This repository contains jupyter notebooks and a list of resources in the readme
 - Web Development
   - [Andrew Banchich](https://github.com/andrewbanchich) (Jekyll implementations of HTML5 UP themes)
   - [CodyHouse](https://codyhouse.co/ds/components?page=2&show=all) (Free Components)
+  - [Pingdom Website Speed Test](https://tools.pingdom.com/) (Tool for analyzing web page performance)
+  - [Compress JPEG](https://www.freeconvert.com/compress-jpeg) (Tool for compressing JPEG images)
+  - [Favicon Generator](https://realfavicongenerator.net/) (Generate favicon for various browsers)
 - Miscellaneous
-  - [Crontab Guru](https://crontab.guru/)(Web tool for creating cron expressions)
-  - [Office Timeline](https://online.officetimeline.com/app/#/new-from-template)(Make Gantt charts online)
-  - [Ginkgo](https://gingkoapp.com/)(Edit documents in nested visual interface)
+  - [Crontab Guru](https://crontab.guru/) (Web tool for creating cron expressions)
+  - [Office Timeline](https://online.officetimeline.com/app/#/new-from-template) (Make Gantt charts online)
+  - [Ginkgo](https://gingkoapp.com/) (Edit documents in nested visual interface)
