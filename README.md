@@ -21,6 +21,9 @@ This repository contains jupyter notebooks and a list of resources in the readme
   - [sdalg](https://github.com/nik0spapp/sdalg) (Web page segmentation)
   - [Memory Based Shallow Parser](https://github.com/clips/MBSP) (Sentence constituent parser)
   - [Deep Translator](https://deep-translator.readthedocs.io/en/latest/index.html) (Python translation API)
+  - [Gensim](https://radimrehurek.com/gensim/) (Topic modeling library)
+  - [spaCy](https://spacy.io/) (Natural language pipelines)
+  - [Stanza](https://stanfordnlp.github.io/stanza/) (Natural language pipelines; Stanford alternative to spaCy)
 - Machine Learning
   - [KaHrPar](https://github.com/kahypar/kahypar) (Hypergraph Partitioning Framework)
   - [DIMSUM](https://blog.twitter.com/engineering/en_us/a/2014/all-pairs-similarity-via-dimsum) (Fast pairwise distance approximation)
